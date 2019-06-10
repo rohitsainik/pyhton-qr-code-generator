@@ -1,0 +1,1 @@
+# pyhton-qr-code-generator
